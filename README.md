@@ -1,1 +1,1 @@
-# 30-Days-of-Leetcode-SP24
+# 30 Days of Leetcode SP24
